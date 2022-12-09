@@ -15,4 +15,8 @@ EFI para plataforma intel 10Th Gen Comet Lake
 - [x] SMBIOS: iMac20,2
 
 
-### USBMap:
+### Config.plist:
+
+- `ShowPicker:` Habilita ou Desabilita o menu do OpenCore (ESC para abrir menu)
+- `HideAuxiliary:` Esconder ferramentas extras do menu (Atalho Barra de espaço)
+- `PollAppleHotKeys:` Habilita teclas de atalho macOS (Command+V: Verbose)
