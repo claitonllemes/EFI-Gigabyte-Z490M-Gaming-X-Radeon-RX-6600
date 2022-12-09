@@ -15,19 +15,8 @@ EFI para plataforma intel 10Th Gen Comet Lake
 - [x] SMBIOS: iMac20,2
 
 
-#### Credits
+### Config.plist:
 
-- The HermitCrabs Lab
-- All projects providing third-party code (refer to file headers)
-- [AppleLife](https://applelife.ru) team and user-contributed resources
-- Chameleon and Clover teams for hints and legacy
-- [al3xtjames](https://github.com/al3xtjames)
-- [Andrey1970AppleLife](https://github.com/Andrey1970AppleLife)
-- [mhaeuser (ex Download-Fritz)](https://github.com/mhaeuser)
-- [Goldfish64](https://github.com/Goldfish64)
-- [MikeBeaton](https://github.com/MikeBeaton)
-- [nms42](https://github.com/nms42)
-- [PMheart](https://github.com/PMheart)
-- [savvamitrofanov](https://github.com/savvamitrofanov)
-- [usr-sse2](https://github.com/usr-sse2)
-- [vit9696](https://github.com/vit9696)
+**ShowPicker:** Habilita ou Desabilita o menu do OpenCore (ESC para abrir menu)
+**HideAuxiliary:** Esconder ferramentas extras do menu (Atalho Barra de espaço)
+**PollAppleHotKeys:** Habilita teclas de atalho macOS (Command+V: Verbose)
