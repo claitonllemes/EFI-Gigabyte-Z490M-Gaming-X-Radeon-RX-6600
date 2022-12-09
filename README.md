@@ -1,7 +1,7 @@
 # EFI-Gigabyte-Z490M-Gaming-X-Radeon-RX-6600
 
 
-SETUP:
+# SETUP:
 
 - [X] Plataforma: Desktop | Intel Core
 - [x] Placa Mãe: Gigabyte Z490M Gaming X
