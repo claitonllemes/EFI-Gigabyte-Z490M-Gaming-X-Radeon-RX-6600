@@ -3,7 +3,7 @@
 EFI para plataforma intel 10Th Gen Comet Lake
 
 
-### SETUP:
+### Setup:
 
 - [X] Plataforma: Desktop | Intel Core
 - [x] Placa Mãe: Gigabyte Z490M Gaming X
@@ -15,4 +15,4 @@ EFI para plataforma intel 10Th Gen Comet Lake
 - [x] SMBIOS: iMac20,2
 
 
-### USBMAP:
+### USBMap:
