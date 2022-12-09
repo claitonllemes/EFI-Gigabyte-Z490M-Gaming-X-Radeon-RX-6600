@@ -1,7 +1,9 @@
 # EFI-Gigabyte-Z490M-Gaming-X-Radeon-RX-6600
 
+EFI para plataforma intel 10Th Gen Comet Lake
 
-# SETUP:
+
+### SETUP:
 
 - [X] Plataforma: Desktop | Intel Core
 - [x] Placa Mãe: Gigabyte Z490M Gaming X
@@ -11,3 +13,6 @@
 - [x] RAM: 2x16 32gb 3000 Mhz DDR4
 - [x] Vídeo: Sapphire AMD Radeon RX 6600 8 GB
 - [x] SMBIOS: iMac20,2
+
+
+### USBMAP:
