@@ -74,15 +74,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
 |☑️| **USB 3.0 A** | 25 | 3 | *Unmepped*
 |☑️| **USB 3.0 A** | 26 | 3 | *Unmepped*
 
-<br>
-
 #### **Status Info:**
 
 <br>
 
 ✅ `Enabled Port` ☑ `Disabled Port`
 
-<br>
 </details> 
 
 **<details><summary>⚙️ Config.plist</summary>** 
