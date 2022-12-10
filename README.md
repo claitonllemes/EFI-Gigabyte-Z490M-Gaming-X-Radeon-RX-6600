@@ -61,7 +61,7 @@
 
 ### Status Info: 
 
-✅`Enabled  Port` ☑️ `Disabled Port`
+✅ `Enabled Port` ☑ `Disabled Port`
 
 # Config.plist
 
