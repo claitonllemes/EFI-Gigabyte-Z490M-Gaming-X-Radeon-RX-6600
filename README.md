@@ -9,25 +9,33 @@
 *  **RAM:** 2x16 32gb 3000 Mhz DDR4
 *  **SMBios:** iMac20,2
 
-## USBMap:
-![Group](https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png)
-
-<sub>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</sub>
-
-![Group-1](https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png)
-
-<sub>IOPorts map of Gigabyte Z490M Gaming X</sub>
 
 ---
 
+
+<details><summary>USBMap</summary>
+
+---
+
+ <details><summary>Images</summary>
+
+ <img src="https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png" width="50%"/>
+
+ <sub>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</sub>
+
+  <img src="https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png" width="50%"/>
+
+ <sub>IOPorts map of Gigabyte Z490M Gaming X</sub>
+</details>
+
+
 ### ✅ USB ports Enabled: 
+
 
 ```
 1,3,4,6,10,11,12,13,17,18,19,20,21,22,23
 ```
 ><sub>**IMPORTANT:** Only 15 ports can be enabled at the same time!</sub>
-
-### USBmap: 
 
 | Status | Connector | Port | Code | Description  | 
 |:---:|:---:|:---:|:---:|---|
@@ -58,15 +66,16 @@
 |☑️| **USB 3.0 A** | 25 | 3 | *Unmepped*
 |☑️| **USB 3.0 A** | 26 | 3 | *Unmepped*
 
-
 ### Status Info: 
 
 ✅ `Enabled Port` ☑ `Disabled Port`
 
-# Config.plist
+</details> 
+
+<details><summary>Config.plist</summary>
 
 - `ShowPicker:` Habilita ou Desabilita o menu do OpenCore (ESC para abrir menu)
 - `HideAuxiliary:` Esconder ferramentas extras do menu (Atalho Barra de espaço)
 - `PollAppleHotKeys:` Habilita teclas de atalho macOS (Command+V: Verbose)
 
-</details>
+</details> 
