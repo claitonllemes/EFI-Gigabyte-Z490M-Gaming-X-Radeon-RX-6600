@@ -34,9 +34,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
 
 #### **USB ports Enabled:**
 
-```
-1,3,4,6,10,11,12,13,17,18,19,20,21,22,23
-```
+`1,3,4,6,10,11,12,13,17,18,19,20,21,22,23`
+
 <sub>**⚠️ IMPORTANT:** Only 15 ports can be enabled at the same time!</sub>
 
 <br>
