@@ -88,8 +88,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
 
 **Crédits:**
 
-* **USBMap** [@corpnewt](https://github.com/corpnewt/USBMap) Python script for mapping USB ports in macOS and creating a custom injector kext
-* **GenSMBIOS** [@corpnewt](https://github.com/corpnewt/GenSMBIOS) Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist.
+**Thank you all for the excellent work and dedication on this amazing project**
+
+* ##### **Thanks to** [@acidanthera](https://github.com/acidanthera) for:
+
+  * ##### [Opencore](https://github.com/acidanthera/OpenCorePkg) *OpenCore bootloader with development SDK*
+
+* ##### **Thanks to** [@corpnewt](https://github.com/corpnewt) for: 
+
+  * ##### [ProperTree](https://github.com/corpnewt/ProperTree) *A cross-platform GUI plist editor written using Python*
+  * ##### [SSDTTime](https://github.com/corpnewt/SSDTTime) *A simple tool designed to make creating SSDTs simple. Supports macOS, Linux and Windows*
+  * ##### [USBMap](https://github.com/corpnewt/USBMap) *Python script for mapping USB ports in macOS and creating a custom injector kext*
+  * ##### [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) *Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist*
+  * ##### [GibMacOS](https://github.com/corpnewt/gibMacOS) *Script that can download macOS components direct from Apple*
+  * ##### [MountEFI](https://github.com/corpnewt/MountEFI) *Automatic mount EFI Script*
+
+* ##### **Thanks to** [@luchina-gabriel](https://github.com/luchina-gabriel) for:
+
+  * ##### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) *Tool that helps to automate recovery interaction*
+  * ##### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) *Base EFI Intel for Comet Lake*
 
 
 
