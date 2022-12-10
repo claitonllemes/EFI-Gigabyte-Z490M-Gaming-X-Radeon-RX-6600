@@ -14,7 +14,7 @@
 
 <sub>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</sub>
 
-![Group-1](https://user-images.githubusercontent.com/99222756/206867979-cf1b430e-7f51-4baf-896e-4065a8ebb460.jpg)
+![Group-1](https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png)
 
 <sub>IOPorts map of Gigabyte Z490M Gaming X</sub>
 
