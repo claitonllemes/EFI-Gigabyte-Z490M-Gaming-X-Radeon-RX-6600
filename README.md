@@ -81,9 +81,10 @@ T: 10,13:255
 
 </details>
 
-
-### Config.plist:
+<details><summary>Config.plist</summary>
 
 - `ShowPicker:` Habilita ou Desabilita o menu do OpenCore (ESC para abrir menu)
 - `HideAuxiliary:` Esconder ferramentas extras do menu (Atalho Barra de espaço)
 - `PollAppleHotKeys:` Habilita teclas de atalho macOS (Command+V: Verbose)
+
+</details>
