@@ -13,29 +13,36 @@
 ---
 
 
-<details><summary>USBMap</summary>
+<details><summary>USBMap</summary> <br>
 
----
+`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venenatis justo. Nunc efficitur porttitor efficitur. In hac habitasse platea dictumst. Fusce lorem augue, ornare at nisi eget, finibus imperdiet odio. Aenean orci purus, rutrum non condimentum at, vestibulum et arcu. Maecenas vulputate metus ex, id varius eros egestas vel. Curabitur vel nunc nibh. Nulla tempor mi at enim aliquet pellentesque`
 
- <details><summary>Images</summary>
+<br>
 
- <img src="https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png" width="50%"/>
+  <details><summary>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</summary> 
 
- <sub>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</sub>
+  <img src="https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png" width="100%"/>
 
-  <img src="https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png" width="50%"/>
+  </details>
 
- <sub>IOPorts map of Gigabyte Z490M Gaming X</sub>
-</details>
+  <details><summary>IOPorts map of Gigabyte Z490M Gaming X</summary> 
+
+  <img src="https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png" width="100%"/>
+
+  </details> <br>
 
 
-### ✅ USB ports Enabled: 
-
+### ⚙️ USB ports Enabled: 
+<br>
 
 ```
 1,3,4,6,10,11,12,13,17,18,19,20,21,22,23
 ```
-><sub>**IMPORTANT:** Only 15 ports can be enabled at the same time!</sub>
+<br>
+
+><sub>**⚠️ IMPORTANT:** Only 15 ports can be enabled at the same time!</sub>
+
+<br>
 
 | Status | Connector | Port | Code | Description  | 
 |:---:|:---:|:---:|:---:|---|
