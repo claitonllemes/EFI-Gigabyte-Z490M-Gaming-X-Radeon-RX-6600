@@ -14,7 +14,7 @@ EFI para plataforma intel 10Th Gen Comet Lake
 - [x] Vídeo: Sapphire AMD Radeon RX 6600 8 GB
 - [x] SMBIOS: iMac20,2
 
-### USBMap:
+<details><summary>### USBMap:</summary>
 
 ![Group 1](https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png)
 
@@ -38,7 +38,7 @@ T: 10,13:255
 ```
 <details><summary>USB 2.0 Type A</summary>
 
-<p>
+
 ## USB3.0-TypeA [3]
 
 - [x] 01. UK01 | AppleUSB20XHCIPort | 01 (01000000) | 14100000 | Type 3 // Porta 04
@@ -55,7 +55,7 @@ T: 10,13:255
 - [ ] 15. UK15 | AppleUSB20XHCIPort | 15 (0f000000) | 14f00000 | Type 3 // Unmepped
 - [ ] 16. UK16 | AppleUSB20XHCIPort | 16 (10000000) | 14000000 | Type 3 // Unmepped
 
-</p></details>
+
 
 ## USB3.0-TypeA [3]
 
@@ -76,6 +76,11 @@ T: 10,13:255
 ## USB 3.0 - Type C - With Internal Switch [9]
 
 - [x] 18. AppleUSB30XHCIPort | AppleUSB30XHCIPort | 18 (12000000) | 14200000 |Type3 //Traseira Lado A + B
+
+</p>
+
+</details>
+
 
 ### Config.plist:
 
