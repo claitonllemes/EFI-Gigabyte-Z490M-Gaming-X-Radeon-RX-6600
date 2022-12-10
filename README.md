@@ -34,13 +34,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
 
 #### **USB ports Enabled:**
 
-<br>
-
 ```
 1,3,4,6,10,11,12,13,17,18,19,20,21,22,23
 ```
-<br>
-
 **⚠️ IMPORTANT:** Only 15 ports can be enabled at the same time!
 
 <br>
@@ -75,8 +71,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
 |☑️| **USB 3.0 A** | 26 | 3 | *Unmepped*
 
 #### **Status Info:**
-
-<br>
 
 ✅ `Enabled Port` ☑ `Disabled Port`
 
