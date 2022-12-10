@@ -1,12 +1,7 @@
 # EFI-Gigabyte-Z490M-Gaming-X-Radeon-RX-6600
 
-EFI para plataforma intel 10Th Gen Comet Lake
-
-
-## Setup:
-
-*  **Plataform:** Desktop Intel Core
-*  **Motherboard:** Gigabyte Z490M Gaming X
+*  **Plataform:** Desktop Intel Core 10Th Gen Comet Lake
+*  **Motherboard:** Gigabyte Z490M Gaming X Bios version F21
 *  **Storage:** SSD Samsung 970 EVO Plus 2TB
 *  **Network:** Fenvi T919 BCM94360 PCIe
 *  **CPU**: Intel Core i9 10900 ES 2,5 Ghz
@@ -17,7 +12,11 @@ EFI para plataforma intel 10Th Gen Comet Lake
 ## USBMap:
 ![Group](https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png)
 
-<sub>Screenshot da ferramenta Hanckintool 3.9.1 demonstrando todas as portas habilitadas neste setup </sub>
+<sub>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</sub>
+
+![Group-1](https://user-images.githubusercontent.com/99222756/206867979-cf1b430e-7f51-4baf-896e-4065a8ebb460.jpg)
+
+<sub>IOPorts map of Gigabyte Z490M Gaming X</sub>
 
 ---
 
@@ -26,7 +25,7 @@ EFI para plataforma intel 10Th Gen Comet Lake
 ```
 1,3,4,6,10,11,12,13,17,18,19,20,21,22,23
 ```
-><sub>**IMPORTANTE:** Apenas 15 portas podem ser habilidatas ao mesmo tempo!</sub>
+><sub>**IMPORTANT:** Only 15 ports can be enabled at the same time!</sub>
 
 ### USBmap: 
 
