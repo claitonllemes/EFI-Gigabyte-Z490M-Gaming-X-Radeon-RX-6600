@@ -13,9 +13,9 @@
 ---
 
 
-<details><summary>USBMap</summary> <br>
+**<details><summary>⚙️ USBMap</summary> <br>**
 
-`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venenatis justo. Nunc efficitur porttitor efficitur. In hac habitasse platea dictumst. Fusce lorem augue, ornare at nisi eget, finibus imperdiet odio. Aenean orci purus, rutrum non condimentum at, vestibulum et arcu. Maecenas vulputate metus ex, id varius eros egestas vel. Curabitur vel nunc nibh. Nulla tempor mi at enim aliquet pellentesque`
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venenatis justo. Nunc efficitur porttitor efficitur. In hac habitasse platea dictumst. Fusce lorem augue, ornare at nisi eget, finibus imperdiet odio. Aenean orci purus, rutrum non condimentum at, vestibulum et arcu. Maecenas vulputate metus ex, id varius eros egestas vel. Curabitur vel nunc nibh. Nulla tempor mi at enim aliquet pellentesque
 
 <br>
 
@@ -29,10 +29,11 @@
 
   <img src="https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png" width="100%"/>
 
-  </details> <br>
+  </details> 
+<br>
 
+#### **USB ports Enabled:**
 
-### ⚙️ USB ports Enabled: 
 <br>
 
 ```
@@ -40,7 +41,7 @@
 ```
 <br>
 
-><sub>**⚠️ IMPORTANT:** Only 15 ports can be enabled at the same time!</sub>
+**⚠️ IMPORTANT:** Only 15 ports can be enabled at the same time!
 
 <br>
 
@@ -73,13 +74,19 @@
 |☑️| **USB 3.0 A** | 25 | 3 | *Unmepped*
 |☑️| **USB 3.0 A** | 26 | 3 | *Unmepped*
 
-### Status Info: 
+<br>
+
+#### **Status Info:**
+
+<br>
 
 ✅ `Enabled Port` ☑ `Disabled Port`
 
+<br>
 </details> 
 
-<details><summary>Config.plist</summary>
+**<details><summary>⚙️ Config.plist</summary>** 
+<br>
 
 - `ShowPicker:` Habilita ou Desabilita o menu do OpenCore (ESC para abrir menu)
 - `HideAuxiliary:` Esconder ferramentas extras do menu (Atalho Barra de espaço)
