@@ -86,15 +86,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
 
 <br>
 
-**Crédits:**
+### **Crédits:**
 
 **Thank you all for the excellent work and dedication on this amazing project**
 
-* ##### **Thanks to** [@acidanthera](https://github.com/acidanthera) for:
+<sub>**Thanks to** [@acidanthera](https://github.com/acidanthera) for:
 
-  * ##### [Opencore](https://github.com/acidanthera/OpenCorePkg) *OpenCore bootloader with development SDK*
+<sub>[Opencore](https://github.com/acidanthera/OpenCorePkg) *OpenCore bootloader with development SDK*
 
-* ##### **Thanks to** [@corpnewt](https://github.com/corpnewt) for: 
+<sub>**Thanks to** [@corpnewt](https://github.com/corpnewt) for: 
 
   * ##### [ProperTree](https://github.com/corpnewt/ProperTree) *A cross-platform GUI plist editor written using Python*
   * ##### [SSDTTime](https://github.com/corpnewt/SSDTTime) *A simple tool designed to make creating SSDTs simple. Supports macOS, Linux and Windows*
@@ -103,7 +103,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
   * ##### [GibMacOS](https://github.com/corpnewt/gibMacOS) *Script that can download macOS components direct from Apple*
   * ##### [MountEFI](https://github.com/corpnewt/MountEFI) *Automatic mount EFI Script*
 
-* ##### **Thanks to** [@luchina-gabriel](https://github.com/luchina-gabriel) for:
+<sub>**Thanks to** [@luchina-gabriel](https://github.com/luchina-gabriel) for:
 
   * ##### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) *Tool that helps to automate recovery interaction*
   * ##### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) *Base EFI Intel for Comet Lake*
