@@ -92,7 +92,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
 
 * ##### **Thanks to** [@acidanthera](https://github.com/acidanthera) for:
 
-* ###### [Opencore](https://github.com/acidanthera/OpenCorePkg) *OpenCore bootloader with development SDK*
+  * ###### [Opencore](https://github.com/acidanthera/OpenCorePkg) *OpenCore bootloader with development SDK*
 
 * ##### **Thanks to** [@corpnewt](https://github.com/corpnewt) for: 
 
