@@ -71,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
 
 #### **Status Info:**
 
-✅ `Enabled Port` ☑ `Disabled Port`
+✅ *Enabled Port* ☑ *Disabled Port*
 
 </details> 
 
@@ -83,3 +83,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
 - `PollAppleHotKeys:` Habilita teclas de atalho macOS (Command+V: Verbose)
 
 </details> 
+
+<br>
+
+**Crédits:**
+
+ @corpnewt USBMap
