@@ -88,6 +88,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
 
 **Crédits:**
 
+* **USBMap** [@corpnewt](https://github.com/corpnewt/USBMap) Python script for mapping USB ports in macOS and creating a custom injector kext
+* **GenSMBIOS** [@corpnewt](https://github.com/corpnewt/GenSMBIOS) Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist.
+
 
 
  
