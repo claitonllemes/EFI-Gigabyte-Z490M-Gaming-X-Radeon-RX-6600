@@ -13,7 +13,7 @@
 
 **<details><summary>⚙️ USBMap</summary> <br>**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venenatis justo. Nunc efficitur porttitor efficitur. In hac habitasse platea dictumst. Fusce lorem augue, ornare at nisi eget, finibus imperdiet odio. Aenean orci purus, rutrum non condimentum at, vestibulum et arcu. Maecenas vulputate metus ex, id varius eros egestas vel. Curabitur vel nunc nibh. Nulla tempor mi at enim aliquet pellentesque
+Python script for mapping USB ports in macOS and creating a custom injector kext.
 
 <br>
 
@@ -107,7 +107,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis venena
 
   * ###### [Mcrecovery](https://github.com/luchina-gabriel/macrecovery) *Tool that helps to automate recovery interaction*
   * ###### [Base EFI 10Th Gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE) *Base EFI Intel for Comet Lake*
-
-
-
- 
