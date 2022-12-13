@@ -102,6 +102,7 @@ Python script for mapping USB ports in macOS and creating a custom injector kext
   * ###### [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) *Python script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist*
   * ###### [GibMacOS](https://github.com/corpnewt/gibMacOS) *Script that can download macOS components direct from Apple*
   * ###### [MountEFI](https://github.com/corpnewt/MountEFI) *Automatic mount EFI Script*
+  * ###### [OCconfigcompare](https://github.com/corpnewt/OCConfigCompare) *Python script to compare two plists and list missing keys in either*
 
 * ##### **Thanks to** [@luchina-gabriel](https://github.com/luchina-gabriel) for:
 
