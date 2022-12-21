@@ -1,7 +1,7 @@
 # **EFI-Gigabyte-Z490M-Gaming-X-Radeon-RX-6600** 
 
-
 **<details><summary>⚙️ Setup</summary>**
+
 *  **Plataform:** Desktop Intel Core 10Th Gen Comet Lake
 *  **Motherboard:** Gigabyte Z490M Gaming X Bios version F21
 *  **Storage:** SSD Samsung 970 EVO Plus 2TB
@@ -13,32 +13,29 @@
 
 </details>
 
-**<details><summary>⚙️ USBMap</summary> <br>**
+**<details><summary>⚙️ USBMap</summary>**
+<details><summary>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</summary> 
+<img src="https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png" width="100%"/>
 
-Python script for mapping USB ports in macOS and creating a custom injector kext.
+</details>
 
-<br>
+<details><summary>IOPorts map of Gigabyte Z490M Gaming X</summary> 
 
-  <details><summary>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</summary> 
+<img src="https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png" width="100%"/>
 
-  <img src="https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png" width="100%"/>
+</details> 
 
-  </details>
-
-  <details><summary>IOPorts map of Gigabyte Z490M Gaming X</summary> 
-
-  <img src="https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png" width="100%"/>
-
-  </details> 
 <br>
 
 #### **USB ports Enabled:**
+
+<br>
 
 ```
 1,3,4,6,10,11,12,13,17,18,19,20,21,22,23
 ```
 
-## **⚠️ IMPORTANT:** Only 15 ports can be enabled at the same time!
+**⚠️ IMPORTANT: Only 15 ports can be enabled at the same time!**
 
 <br>
 
@@ -81,14 +78,11 @@ Python script for mapping USB ports in macOS and creating a custom injector kext
 
 **<details><summary>⚙️ Important Flags</summary>** 
 
-
 - `ShowPicker:` Habilita ou Desabilita o menu do OpenCore (ESC para abrir menu)
 - `HideAuxiliary:` Esconder ferramentas extras do menu (Atalho Barra de espaço)
 - `PollAppleHotKeys:` Habilita teclas de atalho macOS (Command+V: Verbose)
 - `SecureBootModel:` Default (Buscar Atualizações)
 - `csr-actve-config:` 00000000
-
-<br>
 
 </details> 
 
@@ -138,7 +132,7 @@ Python script for mapping USB ports in macOS and creating a custom injector kext
 
 **<details><summary>⚙️ Disk Utility</summary>** 
 
-IMPORTANT: Show All Devices
+**⚠️ IMPORTANT: Select on menu `Show All Devices`**
 
 Format Main Disk:
 * Name: `macOS`
