@@ -1,5 +1,7 @@
-# EFI-Gigabyte-Z490M-Gaming-X-Radeon-RX-6600
+# **EFI-Gigabyte-Z490M-Gaming-X-Radeon-RX-6600** 
 
+
+**<details><summary>⚙️ Setup</summary>**
 *  **Plataform:** Desktop Intel Core 10Th Gen Comet Lake
 *  **Motherboard:** Gigabyte Z490M Gaming X Bios version F21
 *  **Storage:** SSD Samsung 970 EVO Plus 2TB
@@ -9,7 +11,7 @@
 *  **RAM:** 2x16 32gb 3000 Mhz DDR4
 *  **SMBios:** iMac20,2
 
----
+</details>
 
 **<details><summary>⚙️ USBMap</summary> <br>**
 
@@ -36,7 +38,7 @@ Python script for mapping USB ports in macOS and creating a custom injector kext
 1,3,4,6,10,11,12,13,17,18,19,20,21,22,23
 ```
 
-* ###### **⚠️ IMPORTANT:** Only 15 ports can be enabled at the same time!</sub>
+## **⚠️ IMPORTANT:** Only 15 ports can be enabled at the same time!
 
 <br>
 
@@ -73,16 +75,77 @@ Python script for mapping USB ports in macOS and creating a custom injector kext
 
 ✅ *Enabled Port* ☑ *Disabled Port*
 
+<br>
+
 </details> 
 
-**<details><summary>⚙️ Config.plist</summary>** 
-<br>
+**<details><summary>⚙️ Important Flags</summary>** 
+
 
 - `ShowPicker:` Habilita ou Desabilita o menu do OpenCore (ESC para abrir menu)
 - `HideAuxiliary:` Esconder ferramentas extras do menu (Atalho Barra de espaço)
 - `PollAppleHotKeys:` Habilita teclas de atalho macOS (Command+V: Verbose)
+- `SecureBootModel:` Default (Buscar Atualizações)
+- `csr-actve-config:` 00000000
+
+<br>
 
 </details> 
+
+**<details><summary>⚙️ Bios</summary>**
+
+### **Tweaker**
+
+- CPU Upgrade: `Gaming Profile`
+- Enhanced Multi-Core Performance: `Enabled`
+- Advanced CPU Settings
+  - Hyper-Threading Technology: `Enabled`
+  - VT-d: `Enabled`
+- Extreme Memory Profile (X.M.P): `Profile1`
+
+### **Settings**
+
+- Plataform Power
+    - Plataform Power Management: `Enabled`
+    - PCH ASPM: `Enabled`
+- IO Ports
+    - Internal Graphics: `Enabled`
+    - Above 4G Decoding: `Enabled`
+    - Re-Size BAR Support: `Disabled`
+    - Super IO Configuration
+        - Serial Port: `Enabled`
+    - USB Configuration
+        - XHCI Hand-off: `Enabled`
+    - SATA And RST Configuration
+        -SATA Mode Selection: `AHCI`
+- Miscellaneous
+    - Intel Plataform Trust Technology (PPT): `Enabled`
+    - Trust Computing
+        - Security Device Support: `Enabled`
+
+### **Boot**
+
+- CFG Lock: `Disabled`
+- Security Option: `System`
+- Full Screen Logo Show: `Disabled`
+- Fast Boot: `Enabled`
+- CSM Support: `Disabled`
+- Secure Boot
+	- Secure Boot Enable: `Enabled`
+	- Secure Boot Mode: `Standard`
+
+</details> 
+
+**<details><summary>⚙️ Disk Utility</summary>** 
+
+IMPORTANT: Show All Devices
+
+Format Main Disk:
+* Name: `macOS`
+* Format: `APFS`
+* Scheme: `GUID Partition Map`
+
+</details>
 
 <br>
 
