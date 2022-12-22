@@ -94,8 +94,6 @@
 
 ### **⚙️ Bios Setup** 
 
-<br>
-
 #### **Tweaker**
 
 - CPU Upgrade: `Gaming Profile`
