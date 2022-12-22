@@ -1,8 +1,5 @@
 ## **Gigabyte-Z490M-Gaming-X-Radeon-RX-6600**
-<br>
-
 ### **⚙️ Setup**
-
 <br>
 
   - #### **Plataform:** Desktop Intel Core 10Th Gen Comet Lake
@@ -15,10 +12,7 @@
   - #### **RAM:** 2x16 32gb 3000 Mhz DDR4
   - #### **SMBios:** iMac20,2 
 
-<br>
-
 ### **⚙️ Usbmap** 
-
 <br>
 
 <details><summary>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</summary>
@@ -29,16 +23,11 @@
 <img src="https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png" width="100%"/>
 </details>
 
-<br>
-
 #### **USB ports Enabled:** 
-
 ```
 1,3,4,6,10,11,12,13,17,18,19,20,21,22,23
 ```
-
-
-#### **⚠️ IMPORTANT:** *Only 15 ports can be enabled at the same time!*
+##### **⚠️ IMPORTANT:** *Only 15 ports can be enabled at the same time!*
 
 <br>
 
@@ -75,10 +64,7 @@
 
 ###### ✅ *Enabled Port* ☑ *Disabled Port*
 
-<br>
-
 </details> 
-
 
 ### **⚙️ Important Flags** 
 
@@ -89,11 +75,8 @@
 - `PollAppleHotKeys:` Habilita teclas de atalho macOS (Command+V: Verbose)
 - `SecureBootModel:` Default (Buscar Atualizações)
 - `csr-actve-config:` 00000000
-
-<br>
-
+- 
 ### **⚙️ Bios Setup** 
-
 #### **Tweaker**
 
 - CPU Upgrade: `Gaming Profile`
@@ -102,11 +85,7 @@
   - Hyper-Threading Technology: `Enabled`
   - VT-d: `Enabled`
 - Extreme Memory Profile (X.M.P): `Profile1`
-
-
-
 #### **Settings**
-
 - Plataform Power
     - Plataform Power Management: `Enabled`
     - PCH ASPM: `Enabled`
@@ -124,11 +103,7 @@
     - Intel Plataform Trust Technology (PPT): `Enabled`
     - Trust Computing
         - Security Device Support: `Enabled`
-
-
-
 #### **Boot**
-
 - CFG Lock: `Disabled`
 - Security Option: `System`
 - Full Screen Logo Show: `Disabled`
@@ -137,11 +112,8 @@
 - Secure Boot
 	- Secure Boot Enable: `Enabled`
 	- Secure Boot Mode: `Standard`
-  
-<br>
-
 ### **⚙️ Disk Utility**  
-**⚠️ IMPORTANT: Select on menu options** `Show All Devices`
+#### **⚠️ IMPORTANT: Select on menu options** `Show All Devices`
 
 <br>
 
@@ -150,9 +122,7 @@ Disk Format configuration:
 - Name: `macOS`
 - Format: `APFS`
 - Scheme: `GUID Partition Map`
-
-<br>
-
+- 
 ### **👑 Crédits:**
 
 **Thank you all for the excellent work and dedication on this amazing project**
