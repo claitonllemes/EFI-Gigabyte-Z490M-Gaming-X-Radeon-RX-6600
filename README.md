@@ -13,7 +13,6 @@
   - #### **SMBios:** iMac20,2 
 
 ### **⚙️ Usbmap** 
-<br>
 
 <details><summary>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</summary>
 <img src="https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png" width="100%"/>
@@ -60,7 +59,7 @@
 |☑️| **USB 3.0 A** | 25 | 3 | *Unmepped*
 |☑️| **USB 3.0 A** | 26 | 3 | *Unmepped*
 
-#### **Legend:** ✅ *Enabled Port* ☑ *Disabled Port*
+##### **Legend:** ✅ *Enabled Port* ☑ *Disabled Port*
 
 </details> 
 
@@ -71,7 +70,7 @@
 - `PollAppleHotKeys:` Habilita teclas de atalho macOS (Command+V: Verbose)
 - `SecureBootModel:` Default (Buscar Atualizações)
 - `csr-actve-config:` 00000000
-- 
+  
 ### **⚙️ Bios Setup** 
 #### **Tweaker**
 
@@ -118,7 +117,7 @@ Disk Format configuration:
 - Name: `macOS`
 - Format: `APFS`
 - Scheme: `GUID Partition Map`
-- 
+  
 ### **👑 Crédits:**
 
 **Thank you all for the excellent work and dedication on this amazing project**
