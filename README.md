@@ -29,12 +29,9 @@
 <img src="https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png" width="100%"/>
 </details>
 
-
 <br>
 
 #### **USB ports Enabled:** 
-
-<br>
 
 ```
 1,3,4,6,10,11,12,13,17,18,19,20,21,22,23
@@ -97,7 +94,9 @@
 
 ### **⚙️ Bios Setup** 
 
-**<details><summary>Tweaker</summary>**
+<br>
+
+#### **Tweaker**
 
 - CPU Upgrade: `Gaming Profile`
 - Enhanced Multi-Core Performance: `Enabled`
@@ -106,9 +105,9 @@
   - VT-d: `Enabled`
 - Extreme Memory Profile (X.M.P): `Profile1`
 
-</details>
 
-**<details><summary>Settings</summary>**
+
+#### **Settings**
 
 - Plataform Power
     - Plataform Power Management: `Enabled`
@@ -128,9 +127,9 @@
     - Trust Computing
         - Security Device Support: `Enabled`
 
-</details>
 
-**<details><summary>Boot</summary>**
+
+#### **Boot**
 
 - CFG Lock: `Disabled`
 - Security Option: `System`
@@ -141,8 +140,6 @@
 	- Secure Boot Enable: `Enabled`
 	- Secure Boot Mode: `Standard`
   
-</details>
-
 <br>
 
 ### **⚙️ Disk Utility**  
