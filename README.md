@@ -1,6 +1,3 @@
-# **EFI-Gigabyte-Z490M-Gaming-X-Radeon-RX-6600** 
-<br>
-
 ### **⚙️ Setup**
 
 <br>
@@ -94,7 +91,7 @@
 
 <br>
 
-### **⚙️ Bios** 
+### **⚙️ Bios Setup** 
 
 **<details><summary>Tweaker</summary>**
 
@@ -144,9 +141,8 @@
 
 <br>
 
-### **⚙️ Disk Utility** 
-
-#### **⚠️ IMPORTANT: Select on menu options** `Show All Devices`
+### **⚙️ Disk Utility**  
+**⚠️ IMPORTANT: Select on menu options** `Show All Devices`
 
 <br>
 
