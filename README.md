@@ -73,6 +73,8 @@
 - `SecureBootModel:` Default (Buscar Atualizações)
 - `csr-actve-config:` 00000000
   
+---
+
 ### **⚙️ Bios Setup** 
 #### **Tweaker**
 
@@ -109,6 +111,9 @@
 - Secure Boot
 	- Secure Boot Enable: `Enabled`
 	- Secure Boot Mode: `Standard`
+  
+---
+
 ### **⚙️ Disk Utility**  
 ##### **⚠️ IMPORTANT: Select on menu options** `Show All Devices`
 
@@ -119,6 +124,8 @@ Disk Format configuration:
 - Name: `macOS`
 - Format: `APFS`
 - Scheme: `GUID Partition Map`
+
+---
   
 ### **👑 Crédits:**
 
