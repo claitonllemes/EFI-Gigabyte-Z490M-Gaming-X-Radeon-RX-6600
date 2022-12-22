@@ -1,7 +1,7 @@
 # **EFI-Gigabyte-Z490M-Gaming-X-Radeon-RX-6600** 
 <br>
 
-## **⚙️ Setup**
+### **⚙️ Setup**
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## **⚙️ Usbmap** 
+### **⚙️ Usbmap** 
 
 <br>
 
@@ -75,14 +75,14 @@
 
 #### **Legend:**
 
-#### ✅ *Enabled Port* ☑ *Disabled Port*
+###### ✅ *Enabled Port* ☑ *Disabled Port*
 
 <br>
 
 </details> 
 
 
-## **⚙️ Important Flags** 
+### **⚙️ Important Flags** 
 
 <br>
 
@@ -94,7 +94,7 @@
 
 <br>
 
-## **⚙️ Bios** 
+### **⚙️ Bios** 
 
 **<details><summary>Tweaker</summary>**
 
@@ -144,9 +144,9 @@
 
 <br>
 
-## **⚙️ Disk Utility** 
+### **⚙️ Disk Utility** 
 
-#### **⚠️ IMPORTANT: Select on menu options `Show All Devices`**
+#### **⚠️ IMPORTANT: Select on menu options** `Show All Devices`
 
 <br>
 
@@ -158,7 +158,7 @@ Disk Format configuration:
 
 <br>
 
-## **👑 Crédits:**
+### **👑 Crédits:**
 
 **Thank you all for the excellent work and dedication on this amazing project**
 
