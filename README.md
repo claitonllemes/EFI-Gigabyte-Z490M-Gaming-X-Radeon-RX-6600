@@ -1,9 +1,13 @@
+## **Gigabyte-Z490M-Gaming-X-Radeon-RX-6600**
+<br>
+
 ### **⚙️ Setup**
 
 <br>
 
   - #### **Plataform:** Desktop Intel Core 10Th Gen Comet Lake
-  - #### **Motherboard:** Gigabyte Z490M Gaming X Bios version F21
+  - #### **Motherboard:** Gigabyte Z490M Gaming X
+  - #### **Bios Version:** F21
   - #### **Storage:** SSD Samsung 970 EVO Plus 2TB
   - #### **Network:** Fenvi T919 BCM94360 PCIe
   - #### **CPU**: Intel Core i9 10900 ES 2,5 Ghz
