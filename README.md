@@ -1,33 +1,37 @@
 # **EFI-Gigabyte-Z490M-Gaming-X-Radeon-RX-6600** 
+<br>
 
-**<details><summary>⚙️ Setup</summary>**
-
-*  **Plataform:** Desktop Intel Core 10Th Gen Comet Lake
-*  **Motherboard:** Gigabyte Z490M Gaming X Bios version F21
-*  **Storage:** SSD Samsung 970 EVO Plus 2TB
-*  **Network:** Fenvi T919 BCM94360 PCIe
-*  **CPU**: Intel Core i9 10900 ES 2,5 Ghz
-*  **GPU:** Sapphire AMD Radeon RX 6600 8 GB
-*  **RAM:** 2x16 32gb 3000 Mhz DDR4
-*  **SMBios:** iMac20,2
-
-</details>
-
-**<details><summary>⚙️ USBMap</summary>**
-<details><summary>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</summary> 
-<img src="https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png" width="100%"/>
-
-</details>
-
-<details><summary>IOPorts map of Gigabyte Z490M Gaming X</summary> 
-
-<img src="https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png" width="100%"/>
-
-</details> 
+## **⚙️ Setup**
 
 <br>
 
-#### **USB ports Enabled:**
+  - #### **Plataform:** Desktop Intel Core 10Th Gen Comet Lake
+  - #### **Motherboard:** Gigabyte Z490M Gaming X Bios version F21
+  - #### **Storage:** SSD Samsung 970 EVO Plus 2TB
+  - #### **Network:** Fenvi T919 BCM94360 PCIe
+  - #### **CPU**: Intel Core i9 10900 ES 2,5 Ghz
+  - #### **GPU:** Sapphire AMD Radeon RX 6600 8 GB
+  - #### **RAM:** 2x16 32gb 3000 Mhz DDR4
+  - #### **SMBios:** iMac20,2 
+
+<br>
+
+## **⚙️ Usbmap** 
+
+<br>
+
+<details><summary>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</summary>
+<img src="https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png" width="100%"/>
+</details>
+
+<details><summary>Screenshot of IOPorts map of Gigabyte Z490M Gaming X</summary> 
+<img src="https://user-images.githubusercontent.com/99222756/206868553-f577f266-95fb-4549-9bdf-b020a74022b4.png" width="100%"/>
+</details>
+
+
+<br>
+
+#### **USB ports Enabled:** 
 
 <br>
 
@@ -35,7 +39,8 @@
 1,3,4,6,10,11,12,13,17,18,19,20,21,22,23
 ```
 
-**⚠️ IMPORTANT: Only 15 ports can be enabled at the same time!**
+
+#### **⚠️ IMPORTANT:** *Only 15 ports can be enabled at the same time!*
 
 <br>
 
@@ -68,15 +73,18 @@
 |☑️| **USB 3.0 A** | 25 | 3 | *Unmepped*
 |☑️| **USB 3.0 A** | 26 | 3 | *Unmepped*
 
-#### **Status Info:**
+#### **Legend:**
 
-✅ *Enabled Port* ☑ *Disabled Port*
+#### ✅ *Enabled Port* ☑ *Disabled Port*
 
 <br>
 
 </details> 
 
-**<details><summary>⚙️ Important Flags</summary>** 
+
+## **⚙️ Important Flags** 
+
+<br>
 
 - `ShowPicker:` Habilita ou Desabilita o menu do OpenCore (ESC para abrir menu)
 - `HideAuxiliary:` Esconder ferramentas extras do menu (Atalho Barra de espaço)
@@ -84,11 +92,11 @@
 - `SecureBootModel:` Default (Buscar Atualizações)
 - `csr-actve-config:` 00000000
 
-</details> 
+<br>
 
-**<details><summary>⚙️ Bios</summary>**
+## **⚙️ Bios** 
 
-### **Tweaker**
+**<details><summary>Tweaker</summary>**
 
 - CPU Upgrade: `Gaming Profile`
 - Enhanced Multi-Core Performance: `Enabled`
@@ -97,7 +105,9 @@
   - VT-d: `Enabled`
 - Extreme Memory Profile (X.M.P): `Profile1`
 
-### **Settings**
+</details>
+
+**<details><summary>Settings</summary>**
 
 - Plataform Power
     - Plataform Power Management: `Enabled`
@@ -117,7 +127,9 @@
     - Trust Computing
         - Security Device Support: `Enabled`
 
-### **Boot**
+</details>
+
+**<details><summary>Boot</summary>**
 
 - CFG Lock: `Disabled`
 - Security Option: `System`
@@ -127,23 +139,26 @@
 - Secure Boot
 	- Secure Boot Enable: `Enabled`
 	- Secure Boot Mode: `Standard`
-
-</details> 
-
-**<details><summary>⚙️ Disk Utility</summary>** 
-
-**⚠️ IMPORTANT: Select on menu `Show All Devices`**
-
-Format Main Disk:
-* Name: `macOS`
-* Format: `APFS`
-* Scheme: `GUID Partition Map`
-
+  
 </details>
 
 <br>
 
-### **Crédits:**
+## **⚙️ Disk Utility** 
+
+#### **⚠️ IMPORTANT: Select on menu options `Show All Devices`**
+
+<br>
+
+Disk Format configuration:
+
+- Name: `macOS`
+- Format: `APFS`
+- Scheme: `GUID Partition Map`
+
+<br>
+
+## **👑 Crédits:**
 
 **Thank you all for the excellent work and dedication on this amazing project**
 
