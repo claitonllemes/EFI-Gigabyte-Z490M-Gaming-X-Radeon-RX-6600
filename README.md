@@ -1,4 +1,4 @@
-## **Gigabyte-Z490M-Gaming-X-Radeon-RX-6600**
+# **Gigabyte-Z490M-Gaming-X-Radeon-RX-6600**
 
 ### **⚙️ Setup**
 
@@ -11,7 +11,7 @@
   - #### **GPU:** Sapphire AMD Radeon RX 6600 8 GB
   - #### **RAM:** 2x16 32gb 3000 Mhz DDR4
   - #### **SMBios:** iMac20,2 
-
+---
 ### **⚙️ Usbmap** 
 
 <details><summary>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</summary>
@@ -62,6 +62,8 @@
 ##### **Legend:** ✅ *Enabled Port* ☑ *Disabled Port*
 
 </details> 
+
+---
 
 ### **⚙️ Important Flags** 
 
