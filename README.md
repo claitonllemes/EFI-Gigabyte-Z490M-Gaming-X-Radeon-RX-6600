@@ -28,7 +28,7 @@
 ```
 1,3,4,6,10,11,12,13,17,18,19,20,21,22,23
 ```
-##### **⚠️ IMPORTANT:** *Only 15 ports can be enabled at the same time!*
+#### **⚠️ IMPORTANT:** *Only 15 ports can be enabled at the same time!*
 
 <br>
 
@@ -117,11 +117,13 @@
 ---
 
 ### **⚙️ Disk Utility**  
-##### **⚠️ IMPORTANT: Select on menu options** `Show All Devices`
+#### ⚠️ IMPORTANT: 
 
+- Connect Installer-Drive to** `USB 2.0`
+- Select on menu options** `Show All Devices`  
 <br>
 
-Disk Format configuration:
+#### Disk Format configuration:
 
 - Name: `macOS`
 - Format: `APFS`
