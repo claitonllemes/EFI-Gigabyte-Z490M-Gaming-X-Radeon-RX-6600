@@ -6,6 +6,7 @@ Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma f
 <a href="https://www.buymeacoffee.com/claitonllemes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=claitonllemes&button_colour=228636&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <br>
+<br>
 
 ![Configuration](https://user-images.githubusercontent.com/99222756/210242195-3537abf9-a0fe-4083-89d5-3723cee316a6.png)
 
