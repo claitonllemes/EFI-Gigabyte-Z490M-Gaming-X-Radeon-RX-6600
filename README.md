@@ -85,15 +85,14 @@ Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma f
 
 ![Bios Setup](https://user-images.githubusercontent.com/99222756/210242725-8b53ed87-278d-45b5-8017-1c724a9494b8.png)
 
-#### **Tweaker**
-
+## **Tweaker**
 - CPU Upgrade: `Gaming Profile`
 - Enhanced Multi-Core Performance: `Enabled`
 - Advanced CPU Settings
   - Hyper-Threading Technology: `Enabled`
   - VT-d: `Enabled`
 - Extreme Memory Profile (X.M.P): `Profile1`
-#### **Settings**
+## **Settings**
 - Plataform Power
     - Plataform Power Management: `Enabled`
     - PCH ASPM: `Enabled`
@@ -111,7 +110,7 @@ Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma f
     - Intel Plataform Trust Technology (PPT): `Enabled`
     - Trust Computing
         - Security Device Support: `Enabled`
-#### **Boot**
+## **Boot**
 - CFG Lock: `Disabled`
 - Security Option: `System`
 - Full Screen Logo Show: `Disabled`
@@ -121,7 +120,6 @@ Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma f
 	- Secure Boot Enable: `Enabled`
 	- Secure Boot Mode: `Standard`
   
-
 ![Disk Utility](https://user-images.githubusercontent.com/99222756/210242840-c34b3100-9895-4d3c-a043-09cfa6031abf.png)
 
 #### ⚠️ IMPORTANT: 
