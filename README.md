@@ -1,9 +1,11 @@
 ![Plataform](https://user-images.githubusercontent.com/99222756/210241111-2f11b6c8-14be-4166-bb46-475b3c54e862.png)
 
+Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma forma ela te ajudar você pode me pagar um café ☕ sinta-se a vontate clicando no botão abaixo. Muito obrigado! 
 
-Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma forma ela te ajudar você pode me pagar um café ☕ sinta-se a vontate clicando no botão abaixo. Muito obrigado!
-
+<br>
 <a href="https://www.buymeacoffee.com/claitonllemes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=claitonllemes&button_colour=228636&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+<br>
 
 ![Configuration](https://user-images.githubusercontent.com/99222756/210242195-3537abf9-a0fe-4083-89d5-3723cee316a6.png)
 
@@ -125,7 +127,6 @@ Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma f
 
 - Connect Installer-Drive to** `USB 2.0`
 - Select on menu options** `Show All Devices`  
-<br>
 
 #### Disk Format configuration:
 
@@ -133,9 +134,8 @@ Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma f
 - Format: `APFS`
 - Scheme: `GUID Partition Map`
 
----
   
-### **👑 Crédits:**
+![Credits](https://user-images.githubusercontent.com/99222756/210243397-83ce01ae-f753-40c5-92ca-389a39fb03da.png)
 
 **Thank you all for the excellent work and dedication on this amazing project**
 
