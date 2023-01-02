@@ -1,8 +1,11 @@
-# **Gigabyte-Z490M-Gaming-X-Radeon-RX-6600** 
+![Plataform](https://user-images.githubusercontent.com/99222756/210241111-2f11b6c8-14be-4166-bb46-475b3c54e862.png)
+
+
+Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma forma ela te ajudar você pode me pagar um café ☕ sinta-se a vontate clicando no botão abaixo. Muito obrigado!
 
 <a href="https://www.buymeacoffee.com/claitonllemes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=claitonllemes&button_colour=228636&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-### **⚙️ Setup**
+![Configuration](https://user-images.githubusercontent.com/99222756/210242195-3537abf9-a0fe-4083-89d5-3723cee316a6.png)
 
   - #### **Plataform:** Desktop Intel Core 10Th Gen Comet Lake
   - #### **Motherboard:** Gigabyte Z490M Gaming X
@@ -13,10 +16,11 @@
   - #### **GPU:** Sapphire AMD Radeon RX 6600 8 GB
   - #### **RAM:** 2x16 32gb 3000 Mhz DDR4
   - #### **SMBios:** iMac20,2 
----
-### **⚙️ Usbmap** 
 
+
+![USBMap](https://user-images.githubusercontent.com/99222756/210242431-f6b793be-a9dc-4b1d-916e-0767d97b3ed6.png)
 <details><summary>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</summary>
+
 <img src="https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png" width="100%"/>
 </details>
 
@@ -63,11 +67,10 @@
 
 ##### **Legend:** ✅ *Enabled Port* ☑ *Disabled Port*
 
-</details> 
+</details> <br>
 
----
 
-### **⚙️ Important Flags** 
+![Important Flags](https://user-images.githubusercontent.com/99222756/210242805-2619026d-4181-41ca-904c-081b553bff43.png)
 
 - `ShowPicker:` Habilita ou Desabilita o menu do OpenCore (ESC para abrir menu)
 - `HideAuxiliary:` Esconder ferramentas extras do menu (Atalho Barra de espaço)
@@ -75,9 +78,10 @@
 - `SecureBootModel:` Default (Buscar Atualizações)
 - `csr-actve-config:` 00000000
   
----
 
-### **⚙️ Bios Setup** 
+
+![Bios Setup](https://user-images.githubusercontent.com/99222756/210242725-8b53ed87-278d-45b5-8017-1c724a9494b8.png)
+
 #### **Tweaker**
 
 - CPU Upgrade: `Gaming Profile`
@@ -114,9 +118,9 @@
 	- Secure Boot Enable: `Enabled`
 	- Secure Boot Mode: `Standard`
   
----
 
-### **⚙️ Disk Utility**  
+![Disk Utility](https://user-images.githubusercontent.com/99222756/210242840-c34b3100-9895-4d3c-a043-09cfa6031abf.png)
+
 #### ⚠️ IMPORTANT: 
 
 - Connect Installer-Drive to** `USB 2.0`
