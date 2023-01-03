@@ -1,14 +1,13 @@
-![Plataform](https://user-images.githubusercontent.com/99222756/210241111-2f11b6c8-14be-4166-bb46-475b3c54e862.png)
+<a href="https://www.buymeacoffee.com/claitonllemes" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/99222756/210241111-2f11b6c8-14be-4166-bb46-475b3c54e862.png" width="100%"/></a><br>
 
 Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma forma ela te ajudar você pode me pagar um café ☕ sinta-se a vontate clicando no botão abaixo. Muito obrigado! 
 
 <br>
-<a href="https://www.buymeacoffee.com/claitonllemes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=claitonllemes&button_colour=228636&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/claitonllemes" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/99222756/210372197-a1d41894-8acc-470b-ac38-2bd1ee0a4ed9.png" width="100%"/></a><br>
 
 <br>
-<br>
 
-![Configuration](https://user-images.githubusercontent.com/99222756/210242195-3537abf9-a0fe-4083-89d5-3723cee316a6.png)
+<a href="https://www.buymeacoffee.com/claitonllemes" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/99222756/210242195-3537abf9-a0fe-4083-89d5-3723cee316a6.png" width="100%"/></a>
 
   - #### **Plataform:** Desktop Intel Core 10Th Gen Comet Lake
   - #### **Motherboard:** Gigabyte Z490M Gaming X
@@ -20,8 +19,8 @@ Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma f
   - #### **RAM:** 2x16 32gb 3000 Mhz DDR4
   - #### **SMBios:** iMac20,2 
 
+<a href="https://www.buymeacoffee.com/claitonllemes" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/99222756/210242431-f6b793be-a9dc-4b1d-916e-0767d97b3ed6.png" width="100%"/></a>
 
-![USBMap](https://user-images.githubusercontent.com/99222756/210242431-f6b793be-a9dc-4b1d-916e-0767d97b3ed6.png)
 <details><summary>Screenshot of Hanckintool 3.9.1 with all ports enabled in this setup</summary>
 
 <img src="https://user-images.githubusercontent.com/99222756/206858818-cf645e86-7ab7-42b1-9991-87941b01ea11.png" width="100%"/>
@@ -71,9 +70,7 @@ Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma f
 ##### **Legend:** ✅ *Enabled Port* ☑ *Disabled Port*
 
 </details> <br>
-
-
-![Important Flags](https://user-images.githubusercontent.com/99222756/210242805-2619026d-4181-41ca-904c-081b553bff43.png)
+<a href="https://www.buymeacoffee.com/claitonllemes" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/99222756/210242805-2619026d-4181-41ca-904c-081b553bff43.png" width="100%"/></a>
 
 - `ShowPicker:` Habilita ou Desabilita o menu do OpenCore (ESC para abrir menu)
 - `HideAuxiliary:` Esconder ferramentas extras do menu (Atalho Barra de espaço)
@@ -81,9 +78,7 @@ Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma f
 - `SecureBootModel:` Default (Buscar Atualizações)
 - `csr-actve-config:` 00000000
   
-
-
-![Bios Setup](https://user-images.githubusercontent.com/99222756/210242725-8b53ed87-278d-45b5-8017-1c724a9494b8.png)
+<a href="https://www.buymeacoffee.com/claitonllemes" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/99222756/210242725-8b53ed87-278d-45b5-8017-1c724a9494b8.png" width="100%"/></a>
 
 ## **Tweaker**
 - CPU Upgrade: `Gaming Profile`
@@ -119,8 +114,9 @@ Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma f
 - Secure Boot
 	- Secure Boot Enable: `Enabled`
 	- Secure Boot Mode: `Standard`
-  
-![Disk Utility](https://user-images.githubusercontent.com/99222756/210242840-c34b3100-9895-4d3c-a043-09cfa6031abf.png)
+
+
+<a href="https://www.buymeacoffee.com/claitonllemes" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/99222756/210242840-c34b3100-9895-4d3c-a043-09cfa6031abf.png" width="100%"/></a>
 
 #### ⚠️ IMPORTANT: 
 
@@ -133,8 +129,7 @@ Dediquei bastante tempo aprimorando e polindo esta EFI.  Portanto se de alguma f
 - Format: `APFS`
 - Scheme: `GUID Partition Map`
 
-  
-![Credits](https://user-images.githubusercontent.com/99222756/210243397-83ce01ae-f753-40c5-92ca-389a39fb03da.png)
+<a href="https://www.buymeacoffee.com/claitonllemes" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/99222756/210243397-83ce01ae-f753-40c5-92ca-389a39fb03da.png" width="100%"/></a>
 
 **Thank you all for the excellent work and dedication on this amazing project**
 
